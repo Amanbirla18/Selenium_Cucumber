@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/cucumber-reporting-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/junit-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumJars/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/extentreports-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Cucumberjars/Aven/cucumber-extentsreport-3.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
